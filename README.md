@@ -1,4 +1,4 @@
-###DecentraAid Smart Contract Test
+DecentraAid Smart Contract Test
 
 This file includes a test for the DecentraAid's smart contract. 
 You can see the project on ***https://github.com/DecentraAid/DecentraAid***.
